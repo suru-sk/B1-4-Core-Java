@@ -5,7 +5,7 @@ public class Encapsulation {
 	
 	public static void main(String[] args) {
 		
-		SBI sb=new SBI(25000);
+		SBI sb=new SBI(15000);
 		sb.display();
 	}
 
