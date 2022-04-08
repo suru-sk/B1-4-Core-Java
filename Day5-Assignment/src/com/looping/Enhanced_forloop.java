@@ -1,7 +1,7 @@
 
 package com.looping;
 
-public class Enhanced_forLoop {
+public class Enhanced_forloop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
